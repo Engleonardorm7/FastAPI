@@ -1,0 +1,9 @@
+crear entorno virtual
+python -m venv venv
+
+activarlo
+
+source venv/Scripts/activate
+
+instalar framework y libreria
+pip install fastapi uvicorn
